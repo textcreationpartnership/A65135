@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The memorial of the Heer Van Diest, envoy extraordinary of His electoral Highness of Brandenburgh to the high and mighty the Lords States General of the United Provinces, delivered May the 29th, 1864.</title>
+            <author>Diest, Frid. Will. van.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65135</idno>
+            <idno type="STC">Wing V66</idno>
+            <idno type="STC">ESTC R12131</idno>
+            <idno type="EEBO-CITATION">12646652</idno>
+            <idno type="OCLC">ocm 12646652</idno>
+            <idno type="VID">65150</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65150)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:66)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The memorial of the Heer Van Diest, envoy extraordinary of His electoral Highness of Brandenburgh to the high and mighty the Lords States General of the United Provinces, delivered May the 29th, 1864.</title>
+                  <author>Diest, Frid. Will. van.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Geo. Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to Frid. Will. van Diest. cf. Wing.</note>
+                  <note>Broadside.</note>
+                  <note>Signed: Frid. Will. Van Diest.</note>
+                  <note>Page 2 wrongly numbered 4.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:65150:1"/>
+            <head>THE MEMORIAL OF THE HEER VAN DIEST, Envoy Extraordinary Of His Electoral HIGHNESS of BRANDENBURGH. To the High and Mighty the Lords STATES GENERAL of the UNITED PROVINCES: Delivered <hi>May</hi> the 29th. 1864.</head>
+            <opener>
+               <salute>High and Mighty Lords</salute>
+            </opener>
+            <p>THE under-written Envoy Extraordinary from his Electoral Highneſs of <hi>Brandenburgh</hi> hath by ſpecial Order of His Moſt Gracious Maſter in the laſt Conference Repreſented at large to your High and Migh<g ref="char:EOLhyphen"/>tineſſes, Deputies: The grief which his Electoral Highneſs had upon him, concerning the Imminent and almoſt Inevitable danger into which this State was Involved by the Conſequence of the War between thoſe two Mighty Crowns.</p>
+            <p>That his Electoral Highneſs had for many, and Natural Reaſons taken to heart, the Welfare and Conſervation of this State, as were it his own, and did always continue his Sincere and Cordial Friendſhip.</p>
+            <p>That his Electoral Highneſs at Times and Occaſions hath given evident Proofs thereof.</p>
+            <p>That his Electoral Highneſs had never found Affairs, ſo Intricate and Deſperate as now.</p>
+            <p>That there was no properer Means to be thought upon, to avoid their Total Ruine, then by a moſt ſpeedy Peace, or Ceſſation, to make an end of the ſaid War, and to that end to take a prompt (or ready) Reſolu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>That this Work ſhould be taken in hand in good earneſt.</p>
+            <p>That it was not time now to Treat about this or the other Conditions.</p>
+            <pb n="4" facs="tcp:65150:2"/>
+            <p>That it was to be feared that delay of Time would make it daily more difficult.</p>
+            <p>That this hath been ſeen already, and was further to be feared.</p>
+            <p>That it would be hard to anſwer to God and to Poſterity, if through Deſpair they ſhould let all things Run on to Confuſion, and always to Em<g ref="char:EOLhyphen"/>brace too late thoſe Conditions which are no more to be obtained.</p>
+            <p>That his Electoral Highneſs hath hitherto often diverted, or at leaſt de<g ref="char:EOLhyphen"/>layed many Inconveniences like to happen to this State. For to give your High and Mightineſſes time to think upon their Conſervation and Safety, and to deliver themſelves out of that Fire which effectually was kindled in the <hi>Low-Countries.</hi>
+            </p>
+            <p>But that Matters were now gone ſo far, that his Electoral Highneſs could ſee no further how to do any thing in the Buſineſs, but with Grief and Trouble to behold the Ruinous Effects that may follow, ſeeing they would not hearken to his ſo faithful and often Repeated Warnings.</p>
+            <p>That time would manifeſt how Upright and Sincere his Electoral High<g ref="char:EOLhyphen"/>neſs's Intentions towards this State and the General Welfare hath been, and that his Intentions have been quite contrary to what hath often been pub<g ref="char:EOLhyphen"/>liſhed by bad men.</p>
+            <p>That the Great God who knows his Electoral Highneſs Mind, That it had an Aſpect that they through Deſparate Reſolution, or rather Irreſolu<g ref="char:EOLhyphen"/>tion, would Involve and Conſume themſelves, and all their Neighbours into that Fire which is already kindled.</p>
+            <p>That by all means we ought to preſerve <hi>Germany,</hi> and to prevent all Diſquietneſs there.</p>
+            <p>That they muſt not flatter themſelves here with Hopes of any Forces from thoſe Quarters.</p>
+            <p>That his Electoral Highneſs did requeſt them to Reflect upon all theſe Things ſeriouſly and without delay; and that he did hope that this his Well-meaning Repreſentation (to which end his Electoral Highneſs hath ſent the under-written Expreſs) might take ſome Effect upon the Minds of the Rulers of this State, and put your High &amp; Mightineſſes in mind in this Diſtraction, what may be Convenient for the Preſervation of theirs, and their Neighbours Peace, that ſo they may by Gods Grace Transfer to Po<g ref="char:EOLhyphen"/>ſterity both Religion and Liberty, as the two deareſt and weightieſt Pledges which their Fore-fathers with ſo much Blood and Goods have ob<g ref="char:EOLhyphen"/>tained, and not to put the ſame at once, and with ſo much Diſadvantage in the Seale.</p>
+            <p>The Under-written thought fit to Repeat this by Memorial, That ſo your High and Mightineſſes might the better apprehend the Well-meaning Repreſentation of his Electoral Highneſs, and thereupon without Delay of Time might fall upon the Buſineſs.</p>
+            <closer>
+               <dateline>
+                  <hi>Hague</hi> 
+                  <date>29th <hi>May,</hi> 1684.</date>
+               </dateline>
+               <signed>Was Signed FRID. WILL. VAN DIEST.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Geo. Croom,</hi> at the Sign of the <hi>Blew Ball</hi> over againſt <hi>Baynard</hi>'s <hi>Caſtle</hi> in <hi>Thames-ſtreet.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
